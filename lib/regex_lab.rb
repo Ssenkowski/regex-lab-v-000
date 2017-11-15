@@ -1,5 +1,4 @@
 def starts_with_a_vowel?(word)
- word.()
  match.each do |word|
    expect(/\<AEIOU/(word))
 end
